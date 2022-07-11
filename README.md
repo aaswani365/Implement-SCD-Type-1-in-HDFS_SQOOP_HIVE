@@ -1,4 +1,4 @@
-<heading align="center">Loading Online Event Hits using SQOOP to HIVE via Shell Script</heading>
+<h1 align="center">Loading Online Event Hits using SQOOP to HIVE via Shell Script</h1>
 
 ![task](https://user-images.githubusercontent.com/107995802/176878276-32b0534f-2072-41b3-9755-a046354a7ba2.jpeg)
 
