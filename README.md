@@ -1,4 +1,4 @@
-# Project 1: Loading Online Event Hits using Sqoop to Hive via Shell Script
+# Project 1: Loading Online Event Hits using SQOOP to HIVE via Shell Script
 
 Creating a script to automate data load in HDFS with reconciliation of data
 
